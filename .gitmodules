@@ -1,0 +1,6 @@
+[submodule "WordleFrontEnd"]
+	path = WordleFrontEnd
+	url = git@github.com:PepperMcLean/WordleFrontEnd.git
+[submodule "WordleBackEnd"]
+	path = WordleBackEnd
+	url = git@github.com:PepperMcLean/WordleBackEnd.git
